@@ -15,10 +15,13 @@ Para realizar un mejor análsisi se generaron varias gráficas con respecto al a
 También se incluye la gráfica de abandono por método de pago.
 
 ## Conclusiones e Insights ⚡⚡
-Los principales hallazgos son que del total de datos que contienen información sobre el abandono de los clientes, el 26.6% sí abandona a la empresa TelecomX.  Además, el porcentaje de abandono es muy similar la cantidad de clientes del genero femenino que masculino, siendo ligeramente mayor el porcentaje del género femenino que abandonó a la empresa (26.9% vs 26.2%) En cuanto al rango de edad, los clientes con edad menor de 65 años representan el 74.5% de los clientes que abandonan.
+Los principales hallazgos son que del total de datos que contienen información sobre el abandono de los clientes, el 26.6% sí abandona a la empresa TelecomX. 
 Por otro lado, el método de pago de “electronic check” es mediante el cuál los clientes abandonan más a la empresa, manteniéndose más fieles con el pago automático de la tarjeta de crédito. De igual forma, los clientes con el tipo de contrato de mes a mes abandonan más que aquellos que tienen un contrato de 2 años (42.7% vs 2.8%).
-En cuanto al cargo total, se aprecia en el boxplot que los clientes que abandonan presentan un menor cargo total que los clientes que no abandona, sin embargo, en el abandono se observan mayores outliers. Estos valores atípicos están por encima del cargo total con un valor de 8000.
-Por último, se obtuvo un histograma para los clientes que abandonan y los que no abandonan para conocer la distribución de los meses de contrato, observando que entre 0 a 4 meses y de 70 a 74 meses de contrato hay un mayor número de clientes que no abandonan, sin embargo, entre el resto de los rangos de meses, la frecuencia es muy similar por encima de los 250. En contraste, los clientes que abandonan en su mayoría presentan tiempos de contrato de entre 0 a 4 meses, el resto es por debajo de los 250 de frecuencia.
+Por último, se obtuvo un histograma para los clientes que abandonan con respecto al tiempos de contrato, en donde de entre 0 a 4 meses hay mayor frecuencia de abandono.
+
+Algunas de las gráficas que se pueden observar dentro del análisis es la siguiente:
+![image](https://github.com/user-attachments/assets/39c765be-a630-483e-9ef7-26ac68eee566)
+
 
 ## Recomendaciones 📖💢
 Se recomienda que la empresa TelecomX opte por ofrecer métodos de pago más apegado a la tarjeta de crédito o a las transferencias bancarias, es decir, métodos electrónicos para disminuir el abandono de los clientes
